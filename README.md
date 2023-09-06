@@ -68,3 +68,7 @@
 - This line starts the main event loop of the Tkinter application, which keeps the GUI running and responsive to user interactions.
 
 Finally, main_window() is called to start the GUI application when the script is run.
+
+🔥𝐅𝐢𝐧𝐚𝐥 𝐂𝐨𝐝𝐞:
+![codeimage-snippet_6 (9)](https://github.com/kaniz-codes/Text-Corrector-Python/assets/138873297/a8bf9242-8fa5-44fe-8883-5d8a8ac275ca)
+
