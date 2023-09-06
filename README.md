@@ -5,3 +5,7 @@
 
 
 ![image](https://github.com/kaniz-codes/Text-Corrector-Python/assets/138873297/81c4161b-585e-44e9-9173-f50fbfe02e82)
+
+*Let's drive into the code step by step
+
+![codeimage-snippet_6](https://github.com/kaniz-codes/Text-Corrector-Python/assets/138873297/ba312ed5-404e-44db-95b7-207159ed0198)
