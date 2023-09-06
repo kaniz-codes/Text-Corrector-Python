@@ -52,3 +52,9 @@
 - This code creates another label widget (label2) for displaying corrected text and places it in the window. It's similar to the label1 creation and placement.
 
 7️⃣ 𝐒𝐭𝐞𝐩 𝟕:
+![codeimage-snippet_6 (6)](https://github.com/kaniz-codes/Text-Corrector-Python/assets/138873297/df790b28-1b4c-4825-9ab2-336bf4e66525)
+- This code creates another Entry widget (enter2) for displaying the corrected text and places it in the window. It's similar to the enter1 creation and placement.
+
+8️⃣ 𝐒𝐭𝐞𝐩 𝟖:
+![codeimage-snippet_6 (6)](https://github.com/kaniz-codes/Text-Corrector-Python/assets/138873297/f534e296-9db8-4e01-af65-7308f8abba29)
+- 
