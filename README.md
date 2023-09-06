@@ -17,9 +17,13 @@
 - This function, correct_spelling, is defined to perform the spelling correction. Here's what it does:
 
 𝐠𝐞𝐭_𝐝𝐚𝐭𝐚= 𝐞𝐧𝐭𝐞𝐫𝟏.𝐠𝐞𝐭(): It retrieves the text entered in the enter1 Entry widget and stores it in the get_data variable.
+
 𝐜𝐨𝐫𝐫= 𝐓𝐞𝐱𝐭𝐁𝐥𝐨𝐛(𝐠𝐞𝐭_𝐝𝐚𝐭𝐚): It creates a TextBlob object from the input text, which will be used for spelling correction.
+
 𝐝𝐚𝐭𝐚 = 𝐜𝐨𝐫𝐫.𝐜𝐨𝐫𝐫𝐞𝐜𝐭(): It corrects the spelling of the text using the correct() method of the TextBlob object and stores the corrected text in the data variable.
+
 𝐞𝐧𝐭𝐞𝐫𝟐.𝐝𝐞𝐥𝐞𝐭𝐞(𝟎,𝐄𝐍𝐃): It clears the text in the enter2 Entry widget.
+
 𝐞𝐧𝐭𝐞𝐫𝟐.𝐢𝐧𝐬𝐞𝐫𝐭(𝟎,𝐝𝐚𝐭𝐚): It inserts the corrected text (data) into the enter2 Entry widget.
 
 3️⃣ 𝐬𝐭𝐞𝐩 𝟑:
