@@ -56,5 +56,15 @@
 - This code creates another Entry widget (enter2) for displaying the corrected text and places it in the window. It's similar to the enter1 creation and placement.
 
 8️⃣ 𝐒𝐭𝐞𝐩 𝟖:
-![codeimage-snippet_6 (6)](https://github.com/kaniz-codes/Text-Corrector-Python/assets/138873297/f534e296-9db8-4e01-af65-7308f8abba29)
-- 
+![codeimage-snippet_6 (7)](https://github.com/kaniz-codes/Text-Corrector-Python/assets/138873297/7bc5d180-7fa8-4b2c-9df9-6f3569cd2fde)
+- This code creates a button widget (button) with the text "Check" and assigns the correct_spelling function as the command to execute when the button is clicked. Here's what it does:
+
+𝐁𝐮𝐭𝐭𝐨𝐧(𝐰𝐢𝐧, 𝐭𝐞𝐱𝐭="𝐂𝐡𝐞𝐜𝐤", 𝐟𝐨𝐧𝐭=("𝐓𝐢𝐦𝐞 𝐍𝐞𝐰 𝐑𝐨𝐦𝐚𝐧",𝟐𝟓,"𝐛𝐨𝐥𝐝"), 𝐛𝐠="𝐆𝐫𝐞𝐞𝐧", 𝐜𝐨𝐦𝐦𝐚𝐧𝐝=𝐜𝐨𝐫𝐫𝐞𝐜𝐭_𝐬𝐩𝐞𝐥𝐥𝐢𝐧𝐠)
+: It creates a button with specified text, font, background color, and the function to execute when clicked.
+𝐛𝐮𝐭𝐭𝐨𝐧.𝐩𝐥𝐚𝐜𝐞(𝐱=𝟏𝟓𝟎, 𝐲=𝟑𝟎𝟎, 𝐡𝐞𝐢𝐠𝐡𝐭=𝟓𝟔, 𝐰𝐢𝐝𝐭𝐡=𝟐𝟎𝟎): It positions the button at coordinates (150, 300) within the window, sets its height to 56 pixels, and width to 200 pixels.
+
+9️⃣ 𝐒𝐭𝐞𝐩 𝟗:
+![codeimage-snippet_6 (8)](https://github.com/kaniz-codes/Text-Corrector-Python/assets/138873297/c9f7fbcf-bcfb-4ea6-bf4d-b24777bf1a4c)
+- This line starts the main event loop of the Tkinter application, which keeps the GUI running and responsive to user interactions.
+
+Finally, main_window() is called to start the GUI application when the script is run.
